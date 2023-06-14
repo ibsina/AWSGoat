@@ -1,7 +1,7 @@
 # Objective
 Detect changes in configuration using AWS Config
 
-# Solutions
+# Solution
 
 * Log in to [AWS account](https://aws.amazon.com/) where [AWS Goat](https://github.com/ine-labs/AWSGoat) infrastructure has been deployed
 
